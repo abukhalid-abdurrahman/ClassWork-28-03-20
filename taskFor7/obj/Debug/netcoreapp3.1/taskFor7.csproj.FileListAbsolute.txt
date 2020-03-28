@@ -1,0 +1,13 @@
+C:\faridun\projects\taskFor7\bin\Debug\netcoreapp3.1\taskFor7.exe
+C:\faridun\projects\taskFor7\bin\Debug\netcoreapp3.1\taskFor7.deps.json
+C:\faridun\projects\taskFor7\bin\Debug\netcoreapp3.1\taskFor7.runtimeconfig.json
+C:\faridun\projects\taskFor7\bin\Debug\netcoreapp3.1\taskFor7.runtimeconfig.dev.json
+C:\faridun\projects\taskFor7\bin\Debug\netcoreapp3.1\taskFor7.dll
+C:\faridun\projects\taskFor7\bin\Debug\netcoreapp3.1\taskFor7.pdb
+C:\faridun\projects\taskFor7\obj\Debug\netcoreapp3.1\taskFor7.csprojAssemblyReference.cache
+C:\faridun\projects\taskFor7\obj\Debug\netcoreapp3.1\taskFor7.csproj.CoreCompileInputs.cache
+C:\faridun\projects\taskFor7\obj\Debug\netcoreapp3.1\taskFor7.AssemblyInfoInputs.cache
+C:\faridun\projects\taskFor7\obj\Debug\netcoreapp3.1\taskFor7.AssemblyInfo.cs
+C:\faridun\projects\taskFor7\obj\Debug\netcoreapp3.1\taskFor7.dll
+C:\faridun\projects\taskFor7\obj\Debug\netcoreapp3.1\taskFor7.pdb
+C:\faridun\projects\taskFor7\obj\Debug\netcoreapp3.1\taskFor7.genruntimeconfig.cache
